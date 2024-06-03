@@ -9,6 +9,10 @@ body {
     padding-left: 80px;
     align-items: center;
     background-image: url(images/benjamin-davies-21jDy_yt008-unsplash.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .attribution {
@@ -21,7 +25,7 @@ body {
     border-spacing: 10px;
     border-radius: 20px;
     padding: 10px;
-    background-color: #CCC;
+    background-color: white;
 }
 
 .attribution a {
@@ -42,5 +46,6 @@ img {
 @media only screen and (max-width: 600px) {
     body {
         background-color: lightblue;
+        background-image: none;
     }
 }
