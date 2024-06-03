@@ -3,16 +3,34 @@ body {
     display: flex;
     flex-direction: column;
     margin: 0 auto;
-    padding-top: 50px;
+    padding-top: 100px;
     padding-right: 30px;
     padding-bottom: 50px;
     padding-left: 80px;
     align-items: center;
 }
 
+.attribution {
+
+    font-size: 11px;
+    text-align: center;
+    display: block;
+    border: 1px solid #CCC;
+    border-style: ridge;
+    border-spacing: 10px;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
 img {
     width: 100%;
-    border-radius: 0.625rem;
+    border-radius: 0.825rem;
     max-height: 18rem;
     max-width: 18rem;
+    border-spacing: 10px;
+    margin: auto;
 }
