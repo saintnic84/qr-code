@@ -8,11 +8,12 @@ body {
     padding-bottom: 50px;
     padding-left: 80px;
     align-items: center;
+    background-image: url(images/benjamin-davies-21jDy_yt008-unsplash.jpg);
 }
 
 .attribution {
 
-    font-size: 11px;
+    font-size: 9px;
     text-align: center;
     display: block;
     border: 1px solid #CCC;
@@ -20,6 +21,7 @@ body {
     border-spacing: 10px;
     border-radius: 20px;
     padding: 10px;
+    background-color: #CCC;
 }
 
 .attribution a {
@@ -27,10 +29,18 @@ body {
 }
 
 img {
+
+    border-radius: 20px;
     width: 100%;
-    border-radius: 0.825rem;
-    max-height: 18rem;
-    max-width: 18rem;
+    max-height: 288px;
+    max-width: 288px;
     border-spacing: 10px;
     margin: auto;
+}
+
+
+@media only screen and (max-width: 600px) {
+    body {
+        background-color: lightblue;
+    }
 }
