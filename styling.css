@@ -8,7 +8,7 @@ body {
     padding-bottom: 50px;
     padding-left: 80px;
     align-items: center;
-    background-image: url(images/benjamin-davies-21jDy_yt008-unsplash.jpg);
+    background-image: url("images/background_image.jpg");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
