@@ -60,7 +60,7 @@ I'm going to focus on how to effectively use frameworks, so that I don't need to
 
 ## Author
 
-- Website - [Nic Mwangi](https://saintnic84.github.io)
+- Frontend Mentor - [@saintnic84](https://www.frontendmentor.io/profile/saintnic84)
 
 
 ## Acknowledgments
