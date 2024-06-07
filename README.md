@@ -53,7 +53,7 @@ I'm going to focus on how to effectively use frameworks, so that I don't need to
 
 ### Useful resources
 
-- [Mozilla Developer Network](https://www.example.com) - This helped me quickly find the properties I needed for CSS styling.
+- [Mozilla Developer Network](https://developer.mozilla.org/en-US/) - This helped me quickly find the properties I needed for CSS styling.
 
 
 
@@ -64,4 +64,6 @@ I'm going to focus on how to effectively use frameworks, so that I don't need to
 
 ## Acknowledgments
 
-To be honest I'd like to acknowledge Colt Steele's Web Development bootcamp. Thank's to that bootcamp, I became familiar enough with programming to start working through projects like these. I recommend signing up for it. Not gonna lie, it is a long course!
+To be honest I'd like to acknowledge Colt Steele's Web Development bootcamp. Thank's to that bootcamp, I became familiar enough with programming to start working through projects like these. I recommend signing up for it. Not gonna lie, it is a long course! I recommend trying to buy it when it's on sale either during a holiday, or during a flash sale. Here's a link to it:
+
+[Colt Steele's Web Developer Bootcamp](https://udemy.com/course/the-web-developer-bootcamp?src=sac&kw=web)
