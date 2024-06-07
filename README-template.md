@@ -15,7 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 
@@ -43,28 +43,20 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-What I learned was that even with knowing the syntax of CSS, you still need to test and practice with the box model in order to get the correct position. 
-
-
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
+What I learned was that even with knowing the syntax of CSS, you still need to test and practice with the box model in order to get the correct position. Making sure the margin, padding, width, height, and various other properties all worked together took up more time than I expected. 
 
 
 
 ### Continued development
 
-I'm going to focus on how to effectively use frameworks, so that I don't need to spend unnecessary time coding from scratch
+I'm going to focus on how to effectively use frameworks, so that I don't need to spend unnecessary time coding from scratch.
 
 
 ### Useful resources
 
-- [Mozilla Developer Network](https://www.example.com) - This helped me quickly find the properties I needed for
+- [Mozilla Developer Network](https://www.example.com) - This helped me quickly find the properties I needed for CSS styling.
 
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
@@ -73,4 +65,4 @@ I'm going to focus on how to effectively use frameworks, so that I don't need to
 
 ## Acknowledgments
 
-
+To be honest I'd like to acknowledge Colt Steele's Web Development bootcamp. Thank's to that bootcamp, I became familiar enough with programming to start working through projects like these. I recommend signing up for it. Not gonna lie, it is a long course!
